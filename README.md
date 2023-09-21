@@ -18,6 +18,7 @@
 <img src="https://github.com/tarleechango/tarleechango/blob/main/python%20project%202.gif" width="256"/>
 <img src="https://github.com/tarleechango/tarleechango/blob/main/road%20accident.gif" width="256"/>
 -->
+<img src="https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif" width="256"/>
 ![House Sales Dashboard](https://github.com/tarleechango/tarleechango/assets/53060111/07d0610d-7eff-42f5-97f7-8329e17c6971/width=256)
 
 https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif
