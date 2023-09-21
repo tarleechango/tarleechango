@@ -13,11 +13,15 @@
 - 📫 How to reach me: gaurang99.dwivedi@gmail.com 
 
 ### Examples of work
-<img src="https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif" width="256"/>
+<!--<img src="https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif" width="256"/>
 <img src="https://github.com/tarleechango/tarleechango/blob/main/House%20Sales%20Dashboard.gif" width="256"/>
 <img src="https://github.com/tarleechango/tarleechango/blob/main/python%20project%202.gif" width="256"/>
 <img src="https://github.com/tarleechango/tarleechango/blob/main/road%20accident.gif" width="256"/>
-
+-->
+https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif
+https://github.com/tarleechango/tarleechango/blob/main/House%20Sales%20Dashboard.gif
+https://github.com/tarleechango/tarleechango/blob/main/python%20project%202.gif
+https://github.com/tarleechango/tarleechango/blob/main/road%20accident.gif
 <!--
 **tarleechango/tarleechango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
