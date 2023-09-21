@@ -13,25 +13,8 @@
 - 📫 How to reach me: gaurang99.dwivedi@gmail.com 
 
 ### Examples of work
-<!--<img src="https://github.com/tarleechango/tarleechango/blob/main/Covid19%20Dashboard%20gif.gif" width="256"/>
-<img src="https://github.com/tarleechango/tarleechango/blob/main/House%20Sales%20Dashboard.gif" width="256"/>
-<img src="https://github.com/tarleechango/tarleechango/blob/main/python%20project%202.gif" width="256"/>
-<img src="https://github.com/tarleechango/tarleechango/blob/main/road%20accident.gif" width="256"/>
--->
+
 <img src="https://github.com/tarleechango/tarleechango/assets/53060111/07d0610d-7eff-42f5-97f7-8329e17c6971" width="256">
-<!--[House Sales Dashboard](https://github.com/tarleechango/tarleechango/assets/53060111/07d0610d-7eff-42f5-97f7-8329e17c6971){width=200px}-->
-
-<!--
-**tarleechango/tarleechango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/tarleechango/tarleechango/assets/53060111/6480decf-8378-4989-9107-77814e52e774" width="256">
+<img src="https://github.com/tarleechango/tarleechango/assets/53060111/b88579a1-d6fb-4bb3-819c-b3c2557a3137" width="256">
+<img src="https://github.com/tarleechango/tarleechango/assets/53060111/83c5543d-e214-4c02-b503-a80d2a0d9607" width="256">
